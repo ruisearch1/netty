@@ -935,7 +935,7 @@
       <dependency>
         <groupId>org.bouncycastle</groupId>
         <artifactId>bcprov-jdk15on</artifactId>
-        <version>1.69</version>
+        <version>1.70</version>
         <scope>compile</scope>
         <optional>true</optional>
       </dependency>
